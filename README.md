@@ -3,9 +3,9 @@ Tic-Tac-Toe Game in Java is a console-based application developed in Java that a
 
 
 ## 📑 Table of Contents
-- [Key Features]()
-- [Demonstration Video]()
-- [How It Works]()
+- [Key Features](#-key-features)
+- [Demonstration Video](#demonstration-video)
+- [How It Works](#-how-it-works)
 - [Tools and Technologies Used]()
 - [Prerequisites]()
 - [Installation Instructions]()
