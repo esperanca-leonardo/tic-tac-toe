@@ -1,21 +1,18 @@
 # 🕹️ Tic-Tac-Toe Game in Java
 Tic-Tac-Toe Game in Java is a console-based application developed in Java that allows two players to engage in a game of Tic-Tac-Toe. Utilizing basic logic, the application manages player turns, validates moves, checks for winning conditions, and declares the game outcome.
 
-
 ## 📑 Table of Contents
 - [Key Features](#-key-features)
-- [Demonstration Video](#demonstration-video)
+- [Demonstration Video](#-demonstration-video)
 - [How It Works](#-how-it-works)
-- [Tools and Technologies Used]()
-- [Prerequisites]()
-- [Installation Instructions]()
-    - [Clone this repository]()
-    - [Navigate to the project directory]()
-    - [Compile the project]()
-    - [Run the application]()
-- [Observations]()
-- [License]()
-- [Contributions]()
+- [Tools and Technologies Used](#-tools-and-technologies-used)
+- [Prerequisites](#-prerequisites)
+- [Installation Instructions](#-installation-instructions)
+    - [Clone this repository](#1-clone-this-repository)
+    - [Navigate to the project directory](#2-navigate-to-the-project-directory)
+    - [Compile the project](3-compile-the-project)
+    - [Run the application](#4-run-the-application)
+- [Observations](#-observations)
 
 ## 🚀 Key Features
 - **Console Interface:** Simple and intuitive, allowing easy interaction via the terminal.
@@ -23,6 +20,8 @@ Tic-Tac-Toe Game in Java is a console-based application developed in Java that a
 - **Win Condition Checking:** Automatically detects winning conditions by rows, columns, or diagonals.
 - **Draw Detection:** Recognizes when all positions are filled without a winner.
 - **Ease of Use:** Minimalist design, ideal for quick entertainment and learning purposes.
+
+## 📹 Demonstration Video
 
 ## 💡 How It Works
 - **Board Initialization:**
